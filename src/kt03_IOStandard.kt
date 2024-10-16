@@ -1,5 +1,5 @@
-import java.util.Scanner;
-fun main(args: Array<String>) {
+import java.util.Scanner
+fun main() {
     // output standard
     var mess = "Hello World!"
     print(mess) // no "\n" at end
